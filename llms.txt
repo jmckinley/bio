@@ -1,0 +1,60 @@
+# John McKinley — Professional Bio
+
+> Builder and investor in AI infrastructure and AI security. Founder of McKinley Labs. Former CTO of Merrill Lynch, AOL Technologies, News Corp, and GE Capital. Board Member and Chairman of the Technology Committee at Equifax. Investing in AI since 2007 with 13 portfolio exits. Wharton.
+
+## About
+
+John McKinley is a technology executive, founder, and investor based in Great Falls, Virginia. He has spent three decades leading large-scale technology transformations at some of the world's most significant organizations before turning to founding and backing the next generation of AI companies.
+
+He founded McKinley Labs in August 2025, where he built:
+- **ThreatVec** (threatvec.com): An AI Agent Security Posture Management platform that gives enterprises continuous visibility into every agent running across their environment — what exists, what it can access, and where it deviates from policy.
+- **Bastion** (bastionplane.ai): An AI agent gateway that classifies every prompt, de-identifies PII, hard-blocks regulated data fail-closed, routes to the cheapest capable model, and writes a tamper-evident hash-chained audit record.
+
+## Current Roles
+
+- **Founder, McKinley Labs, LLC** — Aug 2025–Present (ThreatVec + Bastion)
+- **Strategic Advisor, Cognitum One** — Mar 2026–Present (founding investor; AI orchestration platform)
+- **Board Member, Equifax** — Oct 2008–Present (Chairman, Technology Committee; Member, Audit Committee)
+- **Founder, Great Falls Ventures** — Apr 2007–Present (seed/early-stage AI investment and advisory)
+- **Advisor, Catalyst Investors** — Jan 2011–Present (growth equity, $1B+ deployed)
+- **Strategic Advisor, NomadGo, Inc.** — Feb 2025–Present (AI inventory management via video + LIDAR)
+- **Strategic Advisor, Colossal Biosciences** — Jun 2022–Present (CRISPR de-extinction)
+
+## Earlier C-Suite Career
+
+- CTO, News Corp
+- CTO and President, AOL Technologies
+- EVP and CTO, Merrill Lynch
+- CTO, GE Capital
+- Partner, Ernst & Young
+
+## Education
+
+University of Pennsylvania — The Wharton School
+
+## Investment History (Great Falls Ventures exits)
+
+- 3Q08: Powerset → Microsoft
+- 4Q08: MessageLabs → Symantec
+- 2Q09: Xoopit → Yahoo
+- 4Q09: AppJet → Google
+- 2Q11: JamLegend → Zynga
+- 3Q11: OurParents → RealPage
+- 3Q14: PlayHaven → Science, Inc.
+- 4Q14: ObjectVideo (IP portfolio) → Avigilon
+- 1Q17: ObjectVideo (SI business) → Alarm.com
+- 4Q18: Conversable → LivePerson
+- 4Q18: Computes → Magic Leap
+- 3Q23: Hypergiant → Thrive Capital
+- 4Q24: RepTrak → Periscope Equity
+
+## Contact
+
+- Email: john@greatfallsventures.com
+- LinkedIn: https://www.linkedin.com/in/johnamckinley/
+- GitHub: https://github.com/jmckinley
+- Location: Great Falls, Virginia, United States
+
+## Pages
+
+- [Full Bio](https://jmckinley.github.io/bio/): Complete professional biography with full experience, investment history, and published writing
