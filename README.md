@@ -15,7 +15,7 @@ Founder of [McKinley Labs](https://www.threatvec.com). Former CTO of Merrill Lyn
 
 | Role | Organization | Since |
 |---|---|---|
-| Founder | [McKinley Labs](https://www.threatvec.com) (ThreatVec + Bastion) | Aug 2025 |
+| Founder | [McKinley Labs](https://www.threatvec.com) (ThreatVec + Bastion + Snapper) | Aug 2025 |
 | Strategic Advisor & Founding Investor | [Cognitum One](https://cognitum.one) | Mar 2026 |
 | Board Member (Chairman, Tech Committee) | [Equifax](https://www.equifax.com) | Oct 2008 |
 | Founder | [Great Falls Ventures](https://jmckinley.github.io/bio/) | Apr 2007 |
@@ -32,6 +32,9 @@ An AI Agent Security Posture Management (AI-SPM) platform. Gives enterprises con
 
 ### Bastion — [bastionplane.ai](https://www.bastionplane.ai)
 An AI agent gateway that governs content and sensitivity. Classifies every prompt, de-identifies PII, hard-blocks regulated data fail-closed before anything reaches a model, routes each request to the cheapest capable model, and writes a tamper-evident hash-chained audit record.
+
+### Snapper — [snapperprotect.com](https://www.snapperprotect.com)
+An AI agent security platform that governs agents from application intent down to kernel enforcement. Pairs an eBPF runtime sentinel with Landlock/Seatbelt sandboxing, driven by self-learning loops that adapt faster than the threat.
 
 ---
 

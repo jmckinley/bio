@@ -9,10 +9,11 @@ John McKinley is a technology executive, founder, and investor based in Great Fa
 He founded McKinley Labs in August 2025, where he built:
 - **ThreatVec** (threatvec.com): An AI Agent Security Posture Management platform that gives enterprises continuous visibility into every agent running across their environment — what exists, what it can access, and where it deviates from policy.
 - **Bastion** (bastionplane.ai): An AI agent gateway that classifies every prompt, de-identifies PII, hard-blocks regulated data fail-closed, routes to the cheapest capable model, and writes a tamper-evident hash-chained audit record.
+- **Snapper** (snapperprotect.com): An AI agent security platform that governs agents from application intent down to kernel enforcement — an eBPF runtime sentinel and Landlock/Seatbelt sandboxing driven by self-learning loops that adapt to new threats.
 
 ## Current Roles
 
-- **Founder, McKinley Labs, LLC** — Aug 2025–Present (ThreatVec + Bastion)
+- **Founder, McKinley Labs, LLC** — Aug 2025–Present (ThreatVec + Bastion + Snapper)
 - **Strategic Advisor, Cognitum One** — Mar 2026–Present (founding investor; AI orchestration platform)
 - **Board Member, Equifax** — Oct 2008–Present (Chairman, Technology Committee; Member, Audit Committee)
 - **Founder, Great Falls Ventures** — Apr 2007–Present (seed/early-stage AI investment and advisory)
